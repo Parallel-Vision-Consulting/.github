@@ -4,7 +4,7 @@ Built for vanguard operations.
 
 ---
 
-Parallel Vision Consulting is a boutique technology consulting initiative focused on helping organizations modernize operations through software, automation and scalable digital systems.
+Parallel Vision Consulting is a boutique technology consulting studio focused on helping organizations modernize operations through software, automation and scalable digital systems.
 
 We combine engineering, operational thinking and modern technologies to help businesses evolve with clarity, scalability and long-term vision.
 
