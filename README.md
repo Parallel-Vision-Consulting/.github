@@ -43,7 +43,7 @@ while maintaining simplicity, clarity and long-term sustainability.
 
 ---
 
-🌐 https://pvconsulting.com.co
+🌐 https://www.pvconsulting.com.co
 
 LinkedIn:
 https://www.linkedin.com/company/parallel-vision-consulting
