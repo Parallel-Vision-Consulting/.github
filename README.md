@@ -14,7 +14,7 @@ We combine engineering, operational thinking and modern technologies to help bus
 * Software Engineering
 * Cloud Architecture
 * Process Automation
-* AI-First Operations
+* Intelligent Operations
 * Systems Integration
 * Digital Platforms
 * Scalable Infrastructure
